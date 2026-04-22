@@ -1,7 +1,7 @@
 {
-  "version": "v0.1.650",
-  "hash": "49a814d610572625319552c82ac08e7124ddc29f4f2c5b87b709d3063af426db",
-  "totalSize": 12725114,
+  "version": "v0.1.651",
+  "hash": "54aa6c77d88008169f1d9f266c8981555452d1c8e5e147db7108ea9fe86e6f5e",
+  "totalSize": 12731208,
   "chunkSize": 2097152,
   "chunkCount": 7,
   "chunk001_file": "Ascended.nn.part001",
@@ -17,5 +17,5 @@
   "chunk006_file": "Ascended.nn.part006",
   "chunk006_size": 2097152,
   "chunk007_file": "Ascended.nn.part007",
-  "chunk007_size": 142202
+  "chunk007_size": 148296
 }
